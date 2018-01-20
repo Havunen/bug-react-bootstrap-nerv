@@ -2,6 +2,13 @@
 
 This application should render 3 buttons, which each render different modal when clicked.
 
+Start by installing deps:
+
+```
+npm i
+```
+
+
 To make React based bundle:
 
 ```
